@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="219.245.186.55">
+    <serverData>
+      <paths name="219.245.186.55">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/usr/local/lib/python2.7/dist-packages/ryu" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
